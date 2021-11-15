@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+<p>
+  Hello, <b>I am Speedy Ye ( Ye SuiPing )</b> from Singapore.
+  <br>I am a senior web full-stack and blockchain developer.
+  <br>I have enthusiasm for bringing value to the people by combining modern technology and user experience. 
+  <br>With 10+ years of software career, I have good experience and skills to build web software to a high-quality standard in the shortest time.
+  <br>I’m seeking the opportunity to devote my capabilities to building some widely used and praised products. 
+ </p>
+<p>
+ 🌱  I am learning everything whatever I think is needed for software technology.
+</p>
+
+<p>
+👯  I hope to collaborate with best developers, and learn from them. 
+</p>
+
+<p>
+⚡ 
+  Tehcnology will open the new world that we have not discovered. 
+  I want to be one of the openers of that world.
+</p>
+
 <!--
 **speedy-ye/speedy-ye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
