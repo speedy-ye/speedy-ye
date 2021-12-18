@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-  Hello, <b>I am Speedy Ye ( Ye SuiPing )</b> from Singapore.
+  Hello, <b>I am Speedy Ye.
   <br>I am a senior web full-stack and blockchain developer.
   <br>I have enthusiasm for bringing value to the people by combining modern technology and user experience. 
   <br>With 10+ years of software career, I have good experience and skills to build web software to a high-quality standard in the shortest time.
