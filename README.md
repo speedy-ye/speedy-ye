@@ -18,7 +18,7 @@
 <p>
 ⚡ 
   Tehcnology will open the new world that we have not discovered. 
-  I want to be one of the openers of that world.
+  I want to be one of the pioneers of that world.
 </p>
 
 <!--
