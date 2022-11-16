@@ -8,7 +8,7 @@
   <br>I’m seeking the opportunity to devote my capabilities to building some widely used and praised products. 
  </p>
 <p>
- 🌱  I am learning everything whatever I think is needed for software technology.
+ 🌱  I learn all the way what is needed for software technology.
 </p>
 
 <p>
